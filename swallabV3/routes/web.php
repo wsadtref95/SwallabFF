@@ -145,3 +145,4 @@ Route::post('/credit-card/store', [MemberCreditCardController::class, 'store'])-
 
 
 // ===========================================================
+Route::view('/aa','aa');
